@@ -5,4 +5,14 @@
       <UniqueIdentifier>{7f277458-8b07-4dec-abb2-d6160c42c9a3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Source\serie.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
